@@ -1,0 +1,5 @@
+name: imbalanced_data_case_study
+channels:
+  - conda-forge
+dependencies:
+  - voila
